@@ -7,7 +7,7 @@ Given the large size of some necessary files, **we strongly recommend running th
 ## 1. Download Project Files
 - IF YOUR SAMPLE CONTRIBUTED TO THE LATEST PSYCHIATRIC GENOMICS CONSORTIUM (PGC) GENOME-WIDE ASSOCIATION STUDY (GWAS) OF DEPRESSION ([PAPER HERE](https://www.cell.com/cell/fulltext/S0092-8674(24)01415-6)) PLEASE DO NOT USE THE FILES FROM THE DOWNLOAD LINK PROVIDED. If you completed the sign-up form you will be contacted and sent a separate download link with site specific files and instructions. If your site has not signed up for the study please do so before completing any analyses.
 
-- IF YOU HAVE NOT CONTRIBUTED TO THE PGC GWAS OF DEPRESSION, download and unzip the ``ENIGMA_MDD_PRS.zip`` directory from figshare (LINK HERE). All necessary project files are located in that directory. NOTE: some files are large, therefore, (1) this download will take time and (2) we recommend having ~20GB of free space on your system.
+- IF YOU HAVE NOT CONTRIBUTED TO THE PGC GWAS OF DEPRESSION, download and unzip the ``ENIGMA_MDD_PRS.zip`` directory from figshare (https://doi.org/10.6084/m9.figshare.28443665.v1). All necessary project files are located in that directory. NOTE: some files are large, therefore, (1) this download will take time and (2) we recommend having ~20GB of free space on your system.
 
 PLEASE DO NOT CHANGE THE LOCATION OF EXISTING FILES OR FOLDERS IN THE DOWNLOADED ``ENIGMA_MDD_PRS`` directory. However, you can add your own files to this project directory.
 
